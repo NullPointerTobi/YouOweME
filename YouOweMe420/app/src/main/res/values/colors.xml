@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ababab</color>
+    <color name="colorPrimaryDark">#a0a0a0</color>
+    <color name="colorAccent">#1DE9B6</color>
+    <color name="subtileBackgroundLight">#f0f0f0</color>
+    <color name="subtileBackgroundDark">#dadada</color>
+    <color name="colorDate">#2222aa</color>
+    <color name="transparent"></color>
+    <color name="red">#FD0000</color>
+    <color name="blue">#00E5FF</color>
+    <color name="yellow">#FFEA00</color>
+    <color name="transparent_grey">#5B4A4A4A</color>
+</resources>
