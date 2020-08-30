@@ -14,7 +14,7 @@ import java.util.List;
 
 
 public class OweDatabase extends SQLiteOpenHelper {             // Initialisierung der Variablen
-    private static final String DB_NAME = "Schulden.db";
+    private static final String DB_NAME = "Schuld.db";
     private static final int VERSION = 1;
 
     private static final String TABELLE_PERSON = "person";
